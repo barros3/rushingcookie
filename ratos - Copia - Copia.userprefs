@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\ratos - Copia\Assets\script\enemy.js">
+    <Files>
+      <File FileName="..\ratos - Copia\Assets\script\MenuInicial.cs" Line="20" Column="20" />
+      <File FileName="..\ratos - Copia\Assets\script\enemy.js" Line="9" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
